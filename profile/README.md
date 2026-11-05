@@ -46,7 +46,7 @@ ps2build build             # build it
 | **SDK** | [sdk-core](https://github.com/ps2build/sdk-core) · [sdk-world](https://github.com/ps2build/sdk-world) · [ps2_drivers](https://github.com/ps2build/ps2_drivers) · [pthread-embedded](https://github.com/ps2build/pthread-embedded) |
 | **Libraries** | [ps2gl](https://github.com/ps2build/ps2gl) · [ps2stuff](https://github.com/ps2build/ps2stuff) · [romfs](https://github.com/ps2build/romfs) · [freetype](https://github.com/ps2build/freetype) · [libjpeg-turbo](https://github.com/ps2build/libjpeg-turbo) · [ogg](https://github.com/ps2build/ogg) · [vorbis](https://github.com/ps2build/vorbis) |
 | **Developer tools** | [tools](https://github.com/ps2build/tools) · [vcl](https://github.com/ps2build/vcl) |
-| **CI** | [setup-ps2build](https://github.com/ps2build/setup-ps2build) · [setup-toolchain](https://github.com/ps2build/setup-toolchain) · [setup-sdk](https://github.com/ps2build/setup-sdk) |
+| **CI** | [setup-sdk](https://github.com/ps2build/setup-sdk) |
 | **Learn** | [docs](https://github.com/ps2build/docs) · [ps2build-samples](https://github.com/ps2build/ps2build-samples) |
 
 ## Open source
