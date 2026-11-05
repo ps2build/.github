@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ps2build/ps2build/main/branding/ps2build-logo.svg" alt="PS2BUILD" width="420">
+  <img src="https://raw.githubusercontent.com/ps2build/.github/main/profile/icon.png" alt="ps2build" width="120">
 </p>
+
+<h1 align="center">PS2BUILD</h1>
 
 <h3 align="center">The modern build platform for PlayStation 2 development.</h3>
 
 <p align="center">
   <a href="https://github.com/ps2build/ps2build/releases">Download</a> ·
-  <a href="https://github.com/ps2build/docs">Documentation</a> ·
+  <a href="https://ps2build.dev">Documentation</a> ·
   <a href="https://github.com/ps2build/ps2build-samples">Samples</a> ·
   <a href="https://github.com/ps2build/ps2build/issues">Support</a>
 </p>
