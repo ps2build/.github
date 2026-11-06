@@ -30,11 +30,24 @@ ps2build is an end-to-end platform for building PlayStation 2 software. One decl
 
 ## Get started
 
+Install on Linux or macOS:
+
 ```
-ps2build update            # install the SDK and toolchains
-ps2build init my-game      # scaffold a project
+curl -sSfL https://ps2build.dev/install.sh | sh
+```
+
+Install on Windows (PowerShell):
+
+```
+irm https://ps2build.dev/install.ps1 | iex
+```
+
+Then create and build a project:
+
+```
+ps2build init my-game
 cd my-game
-ps2build build             # build it
+ps2build build
 ```
 
 ## Platform
